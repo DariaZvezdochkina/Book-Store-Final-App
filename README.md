@@ -1,3 +1,16 @@
-I decided to change the theme of the project because I want to develop a mobile application in the Dart programming language using Flutter. The mobile application will be written in android studio, but to run it, you can open it even in visual studio code. The main thing is that the Android SDK is installed and it is possible to open IOS or Android Emulator. The idea is to create a bookstore, where the user will first need to log into his account or register, then he/she will have the opportunity to view the products and add them to a cart, where the user can see detailed information. There will be 5 screens in total: login page, sign up page, book store page, item page and cart page.
+# book_store_app
 
-MileStones: -Create low-fidelity/high-fidelity prototype in Figma -Create 2 first screens(login page, sign up page) and navigation between -Create the last 3 screens(book store, item page and cart) -Add Firebase -Add functioanality to this buttons Link to Trello: https://trello.com/b/AvrMTN3z/bookstore Link to Figma: https://www.figma.com/file/kmyhl8zEihKwIMUEuPHKws/BookStoreApp?node-id=1%3A4
+A new Flutter application.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
